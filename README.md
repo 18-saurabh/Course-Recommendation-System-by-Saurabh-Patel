@@ -7,12 +7,7 @@ A web application that suggests Coursera courses based on user interests, built 
 
 ## 🎬 Demo Video
 
-[Click to watch the demo](demo_Media/Course%20Recommendation%20System%20Demo.mp4)
-
-Or watch it below:
-
-[demo_Media/Course%20Recommendation%20System%20Demo.mp4](demo_Media/Course%20Recommendation%20System%20Demo.mp4)
-
+https://github.com/user-attachments/assets/123a6485-a511-437f-8f16-78445a27239f
 
 ## 📖 About The Project
 
