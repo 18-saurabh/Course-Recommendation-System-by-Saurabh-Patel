@@ -5,9 +5,14 @@
 
 A web application that suggests Coursera courses based on user interests, built with Python and Streamlit. This project leverages content-based filtering to recommend courses from a dataset of over 3,000 options.
 
-## 🚀 Live Demo
+## 🎬 Demo Video
 
-*(It's highly recommended to add a screenshot or a GIF of your running application here. It dramatically increases interest.)*
+[Click to watch the demo](demo_Media/Course%20Recommendation%20System%20Demo.mp4)
+
+Or watch it below:
+
+[demo_Media/Course%20Recommendation%20System%20Demo.mp4](demo_Media/Course%20Recommendation%20System%20Demo.mp4)
+
 
 ## 📖 About The Project
 
