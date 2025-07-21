@@ -106,7 +106,7 @@ To get a local copy up and running, follow these simple steps.
 6.  **Run the Streamlit app:**
 
     ```sh
-    streamlit run app.py
+    streamlit run main.py
     ```
 
     *(Make sure your main Python script is named `app.py` or change the command accordingly.)*
